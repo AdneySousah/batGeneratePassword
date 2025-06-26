@@ -25,7 +25,7 @@ Um simples e prático **gerador de senhas** desenvolvido com **React Native** e 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/BatGeneratePassword.git
+git clone https://github.com/AdneySousah/batGeneratePassword/edit/main/README.md
 cd BatGeneratePassword
 
 
